@@ -1,0 +1,23 @@
+.Colors-h1 {
+  text-align: center;
+  font-size: 3rem;
+  color: goldenrod;
+}
+
+.Colors-allcolors {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.Colors-link button {
+  margin: 20px auto 10px auto;
+  padding: 3px 20px;
+  border: none;
+  border-radius: 5px;
+  font-size: 1.3rem;
+  font-family: "Satisfy", cursive;
+  background-color: rgba(218, 165, 32, 0.5);
+  cursor: pointer;
+  color: rgba(0, 0, 0, 0.6);
+}

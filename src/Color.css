@@ -1,0 +1,22 @@
+.Color-title {
+  text-align: center;
+  font-size: 3rem;
+  color: goldenrod;
+}
+
+.Color-link {
+  display: flex;
+  text-decoration: none;
+}
+
+.Color-button {
+  margin: 30px auto;
+  padding: 8px 70px;
+  border: none;
+  border-radius: 5px;
+  font-size: 1.3rem;
+  font-family: "Satisfy", cursive;
+  background-color: rgba(218, 165, 32, 0.5);
+  cursor: pointer;
+  color: rgba(0, 0, 0, 0.6);
+}
